@@ -1,0 +1,11 @@
+@import url(style/header.css);
+
+:root{
+    --var-background-color: #1d1d1d;
+    --white: #FFFFFF;
+    --var-header-background-color: #333333;
+}
+
+body{
+    background-color: var(--var-background-color);
+}
